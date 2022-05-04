@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @giorgitrapaidze
-- 👀 I’m interested in Python, Flask, Javascript.
-- 🌱 I’m currently learning React.js and Node.js.
+- 👀 I’m interested in PHP, Laravel, Vue, React.
 - 📫 How to reach me: https://www.linkedin.com/in/giorgi-trapaidze-9635623a
 
 
