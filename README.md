@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giorgitrapaidze
-- 👀 I’m interested in PHP, Laravel, Vue, React.
+- 👀 I’m interested in PHP, Laravel, Vue and React.
 - 📫 How to reach me: https://www.linkedin.com/in/giorgi-trapaidze-9635623a
 
 
