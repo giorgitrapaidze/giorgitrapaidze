@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @giorgitrapaidze
-- 👀 I’m interested in PHP, Laravel, Vue and React.
-- 📫 How to reach me: https://www.linkedin.com/in/giorgi-trapaidze-9635623a
+# 👋 Hi, I’m Giorgi
 
+I’m a former full-stack developer now studying **Robotics & Intelligent Systems** at Constructor University.  
+I’m currently focusing on **C/C++**, **ROS**, **computer vision**, and core **robotics/AI** concepts.
 
-<!---
-giorgitrapaidze/giorgitrapaidze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔧 Tech I Use
+- **Robotics / AI:** Python, ROS
+- **Embedded:** C/C++, Arduino, sensors  
+- **Software:** JavaScript, TypeScript, PHP, Laravel, Vue, React  
+
+### 🚀 Current Focus
+- Embedded systems & control  
+- ROS and robot software architecture  
+- SLAM fundamentals  
+- Computer vision and perception
+
+### 📫 Contact
+LinkedIn: https://www.linkedin.com/in/giorgi-trapaidze-9635623a
