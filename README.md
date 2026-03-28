@@ -6,7 +6,7 @@ I’m currently focusing on **C/C++**, **ROS**, **computer vision**, and core **
 ### 🔧 Tech I Use
 - **Robotics / AI:** Python, ROS
 - **Embedded:** C/C++, Arduino, sensors  
-- **Software:** JavaScript, TypeScript, PHP, Laravel, Vue, React  
+- **Web:** JavaScript, TypeScript, PHP, Laravel, Vue, React  
 
 ### 🚀 Current Focus
 - Embedded systems & control  
