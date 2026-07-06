@@ -34,15 +34,5 @@ Currently, I work as a **Research Assistant** focusing on **Autonomous Underwate
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Giorgi's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 *   **LinkedIn:** [linkedin.com/in/giorgi-trapaidze-9635623a](https://www.linkedin.com/in/giorgi-trapaidze-9635623a)
